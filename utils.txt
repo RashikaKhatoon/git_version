@@ -1,1 +1,1 @@
-util function for 2
+util function for 2xx
